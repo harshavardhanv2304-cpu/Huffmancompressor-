@@ -103,4 +103,4 @@ make test
 
 ## Author
 
-**Malla Manoj** | IIT Kharagpur | 24EC10096
+**V. Harsha Vardhan Naik** | IIT Kharagpur | 24EC10029
